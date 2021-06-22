@@ -12,6 +12,7 @@
 *.log
 /out/
 /target/
+**/target/
 
 # BlueJ files
 *.ctxt
